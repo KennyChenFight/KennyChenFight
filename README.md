@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://github.com/KennyChenFight">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KennyChenFight&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KennyChenFight&layout=compact&langs_count=4&&hide=OpenEdge ABL,html,TeX,C#,Jupyter Notebook&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KennyChenFight&layout=compact&langs_count=4&&hide=OpenEdge ABL,html,TeX,C#,JupyterNotebook&theme=algolia"/>
 </a>
 </p>
 
