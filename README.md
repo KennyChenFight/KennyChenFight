@@ -7,7 +7,8 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Golang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-⚙️ &nbsp;GitHub Analytics
+
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AVS1508">
