@@ -8,16 +8,6 @@
 
 ![Golang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/KennyChenFight">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KennyChenFight&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KennyChenFight&layout=compact&langs_count=4&&hide=OpenEdge ABL,html,TeX,C#,JupyterNotebook&theme=algolia"/>
-</a>
-</p>
-
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
